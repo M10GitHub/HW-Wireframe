@@ -1,0 +1,45 @@
+body {
+	background-color: #777;
+}
+
+.mainheader {
+	width: 960px;
+	border:45px;
+	padding: 25px;
+	margin: 10px;
+	background-color: #ebebeb;
+	text-align: center;
+}
+
+.navheader {
+	width: 960px;
+	border: 45px;
+	padding: 25px;
+	margin: 10px;
+	background-color: #ebebeb;
+	text-align: center;
+}
+
+.sectionheader {
+	float: left;
+	width: 445px;
+	height: 250px;
+	border: 45px;
+	padding: 25px;
+	margin: 10px;
+	background-color: #ebebeb;
+	text-align: center;
+}
+
+.sectionaside {
+	float: right;
+	width: 445px;
+	height: 250px;
+	border: 45px;
+	padding: 25px;
+	margin: 10px;
+	background-color: #ebebeb;
+	text-align: center;
+}
+
+
